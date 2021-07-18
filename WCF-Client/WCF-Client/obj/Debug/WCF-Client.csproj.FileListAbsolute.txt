@@ -8,3 +8,9 @@ C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF-Client.c
 C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF-Client.csproj.CoreCompileInputs.cache
 C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF-Client.exe
 C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF-Client.pdb
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF_Client.Forms.AddServicesForm.resources
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF_Client.Forms.CarsBrandForm.resources
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF_Client.Forms.ExcecutedForm.resources
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF_Client.Forms.PerformedServicesForm.resources
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF_Client.Forms.ServiceForm.resources
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF_Client.Forms.StationServicesFrom.resources

@@ -56,33 +56,32 @@ namespace WCF_Client
             string addressStation = dataGridView1.CurrentRow.Cells[2].Value.ToString();
             string descriptionStation = dataGridView1.CurrentRow.Cells[3].Value.ToString();
 
-            using (Forms.StationServicesFrom serviceFrom = new Forms.StationServicesFrom(idChosenStation, nameStation, addressStation, descriptionStation))
-            {
-                serviceFrom.Show();
-            }
+            Forms.StationServicesFrom serviceFrom = new Forms.StationServicesFrom(idChosenStation, nameStation, addressStation, descriptionStation);
+            serviceFrom.Show();
         }
 
         private void выполненнуюРаботуToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            using (Forms.ExcecutedForm excecutedForm = new Forms.ExcecutedForm())
-            {
-                excecutedForm.Show();
-            }
+            Forms.ExcecutedForm excecutedForm = new Forms.ExcecutedForm();
+            excecutedForm.Show();
         }
 
         private void маркиМашинToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Forms.CarsBrandForm carBrand = new Forms.CarsBrandForm();
+            carBrand.Show();
         }
 
         private void видыУслугToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Forms.ServiceForm serviceForm = new Forms.ServiceForm();
+            serviceForm.Show();
         }
 
         private void выполенныеУслугиToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Forms.PerformedServicesForm getPerformedServicesForm = new Forms.PerformedServicesForm();
+            getPerformedServicesForm.Show();
         }
     }
 }

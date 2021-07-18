@@ -54,16 +54,70 @@
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Compile>
     <Compile Include="Connection\ServiceConnection.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="Forms\AddServicesForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Forms\AddServicesForm.Designer.cs">
+      <DependentUpon>AddServicesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CarsBrandForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CarsBrandForm.Designer.cs">
+      <DependentUpon>CarsBrandForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ExcecutedForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ExcecutedForm.Designer.cs">
+      <DependentUpon>ExcecutedForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PerformedServicesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PerformedServicesForm.Designer.cs">
+      <DependentUpon>PerformedServicesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ServiceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ServiceForm.Designer.cs">
+      <DependentUpon>ServiceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StationServicesFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StationServicesFrom.Designer.cs">
+      <DependentUpon>StationServicesFrom.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\AddServicesForm.resx">
+      <DependentUpon>AddServicesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CarsBrandForm.resx">
+      <DependentUpon>CarsBrandForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ExcecutedForm.resx">
+      <DependentUpon>ExcecutedForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PerformedServicesForm.resx">
+      <DependentUpon>PerformedServicesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ServiceForm.resx">
+      <DependentUpon>ServiceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\StationServicesFrom.resx">
+      <DependentUpon>StationServicesFrom.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
