@@ -1,0 +1,10 @@
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\bin\Debug\WCF-Client.exe.config
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\bin\Debug\WCF-Client.exe
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\bin\Debug\WCF-Client.pdb
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF-Client.csproj.AssemblyReference.cache
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF_Client.MainForm.resources
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF_Client.Properties.Resources.resources
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF-Client.csproj.GenerateResource.cache
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF-Client.csproj.CoreCompileInputs.cache
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF-Client.exe
+C:\Users\Semik\Documents\GitHub\WCF\WCF-Client\WCF-Client\obj\Debug\WCF-Client.pdb
